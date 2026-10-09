@@ -1,0 +1,20 @@
+# Build results
+bin/
+obj/
+
+# .NET Core
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Rider / Visual Studio
+.vs/
+.idea/
+
+# Logs produced by the app
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
