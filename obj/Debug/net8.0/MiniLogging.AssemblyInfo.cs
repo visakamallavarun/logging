@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniLogging")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8e8f165dc1fc9747dfc116bdc0ea9d5ecd35670")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniLogging")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniLogging")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
