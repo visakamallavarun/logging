@@ -1,0 +1,14 @@
+c:\Users\VisakamallaVarun\Downloads\logging\bin\Debug\net8.0\MiniLogging.exe
+c:\Users\VisakamallaVarun\Downloads\logging\bin\Debug\net8.0\MiniLogging.deps.json
+c:\Users\VisakamallaVarun\Downloads\logging\bin\Debug\net8.0\MiniLogging.runtimeconfig.json
+c:\Users\VisakamallaVarun\Downloads\logging\bin\Debug\net8.0\MiniLogging.dll
+c:\Users\VisakamallaVarun\Downloads\logging\bin\Debug\net8.0\MiniLogging.pdb
+c:\Users\VisakamallaVarun\Downloads\logging\obj\Debug\net8.0\MiniLogging.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\VisakamallaVarun\Downloads\logging\obj\Debug\net8.0\MiniLogging.AssemblyInfoInputs.cache
+c:\Users\VisakamallaVarun\Downloads\logging\obj\Debug\net8.0\MiniLogging.AssemblyInfo.cs
+c:\Users\VisakamallaVarun\Downloads\logging\obj\Debug\net8.0\MiniLogging.csproj.CoreCompileInputs.cache
+c:\Users\VisakamallaVarun\Downloads\logging\obj\Debug\net8.0\MiniLogging.dll
+c:\Users\VisakamallaVarun\Downloads\logging\obj\Debug\net8.0\refint\MiniLogging.dll
+c:\Users\VisakamallaVarun\Downloads\logging\obj\Debug\net8.0\MiniLogging.pdb
+c:\Users\VisakamallaVarun\Downloads\logging\obj\Debug\net8.0\MiniLogging.genruntimeconfig.cache
+c:\Users\VisakamallaVarun\Downloads\logging\obj\Debug\net8.0\ref\MiniLogging.dll

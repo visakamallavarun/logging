@@ -1,0 +1,6 @@
+2026-10-09 15:58:26 [Debug] MiniLogging.Demo.EmployeeService - Starting employee creation
+2026-10-09 15:58:26 [Information] MiniLogging.Demo.EmployeeService - Employee 101 created
+2026-10-09 15:58:26 [Information] MiniLogging.Demo.EmployeeService => Processing EmployeeId: 202 - Loading employee
+2026-10-09 15:58:26 [Information] MiniLogging.Demo.EmployeeService => Processing EmployeeId: 202 - Validating employee
+2026-10-09 15:58:26 [Warning] MiniLogging.Demo.EmployeeService => Processing EmployeeId: 202 - Employee 202 is missing an email address
+2026-10-09 15:58:26 [Information] MiniLogging.Demo.EmployeeService => Processing EmployeeId: 202 - Saving employee
